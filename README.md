@@ -24,6 +24,10 @@ A version newer than the one in your campaign can appear here before it reaches 
 
 A plugin is one file of plain JavaScript that runs walled off from everything else. [The docs](https://steading.gg/plugin-docs.html) go from the first line to getting it listed, and these are the real examples they point to.
 
+## Licence
+
+The plugins by Steading examples are under the [MIT licence](LICENSE): copy them, change them and build yours from them. A plugin by anyone else belongs to its author and isn't covered.
+
 ## Changing something here
 
 This repo is published from Steading's own source, so pull requests and issues are off. To have a plugin listed, or to report a problem with one, follow [Get it listed](https://steading.gg/plugin-docs.html#publish) or write to hello@steading.gg.
