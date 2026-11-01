@@ -1,0 +1,11 @@
+{
+  "kind": "steading-plugin",
+  "id": "examples.weather",
+  "name": "Weather",
+  "version": "1.0.0",
+  "author": "Steading examples",
+  "description": "Rolls the day's weather for the climate you pick and keeps a short log on the page. At the table, roll it and jot it into the session in one tap.",
+  "permissions": [],
+  "blocks": [{ "key": "examples.weather.days", "label": "Weather", "hint": "The day's weather, rolled for your climate.", "icon": "sun" }],
+  "tableTools": [{ "id": "weather", "label": "Weather", "icon": "sun" }]
+}

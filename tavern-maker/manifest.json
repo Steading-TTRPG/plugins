@@ -1,0 +1,11 @@
+{
+  "kind": "steading-plugin",
+  "id": "examples.tavern-maker",
+  "name": "Tavern maker",
+  "version": "1.0.0",
+  "author": "Steading examples",
+  "description": "Makes up a tavern when the party walks into one you did not plan: its name, keeper, what is on the fire and a rumour. Keep the ones you like as a place page.",
+  "permissions": ["pages:create"],
+  "tableTools": [{ "id": "tavern", "label": "Tavern", "icon": "home" }],
+  "commands": [{ "id": "make-tavern", "title": "Make a tavern page", "icon": "home" }]
+}

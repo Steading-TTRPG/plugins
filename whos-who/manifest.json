@@ -1,0 +1,10 @@
+{
+  "kind": "steading-plugin",
+  "id": "examples.whos-who",
+  "name": "Who's who",
+  "version": "1.0.0",
+  "author": "Steading examples",
+  "description": "A quick list of the people in your campaign at the table, for when someone asks who that was again. Type a few letters, and open their page in a tap.",
+  "permissions": ["campaign:read"],
+  "tableTools": [{ "id": "whos-who", "label": "Who's who", "icon": "users" }]
+}
